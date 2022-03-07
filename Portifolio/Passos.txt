@@ -1,0 +1,7 @@
+PROJETO SITE PORTIFÓLIO
+=======================
+
+
+PASSO 1 -> Pesquisas layouts, irei utilizar o site https://html5up.net/, para pesquisa de um layout,
+o que me poupara tempo na confecção do site
+
